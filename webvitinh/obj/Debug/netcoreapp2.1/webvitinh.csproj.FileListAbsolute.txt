@@ -1,0 +1,154 @@
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csproj.CoreCompileInputs.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.AssemblyInfoInputs.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.AssemblyInfo.cs
+D:\project\ASP\webvitinh\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.deps.json
+D:\project\ASP\webvitinh\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.runtimeconfig.json
+D:\project\ASP\webvitinh\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.runtimeconfig.dev.json
+D:\project\ASP\webvitinh\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.dll
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csprojAssemblyReference.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorAssemblyInfo.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorAssemblyInfo.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.TagHelpers.input.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.TagHelpers.output.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorCoreGenerate.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorTargetAssemblyInfo.cache
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorTargetAssemblyInfo.cs
+D:\project\ASP\webvitinh\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.pdb
+D:\project\ASP\webvitinh\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.Views.dll
+D:\project\ASP\webvitinh\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.Views.pdb
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.Views.pdb
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.dll
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.pdb
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csproj.CopyComplete
+D:\project\ASP\webvitinh\webvitinh\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csprojAssemblyReference.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csproj.CoreCompileInputs.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorAssemblyInfo.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorAssemblyInfo.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.AssemblyInfoInputs.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.AssemblyInfo.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.deps.json
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.runtimeconfig.json
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.runtimeconfig.dev.json
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.dll
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.Views.dll
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.Views.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\Model.dll
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\Model.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.TagHelpers.input.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.TagHelpers.output.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorCoreGenerate.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorTargetAssemblyInfo.cache
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorTargetAssemblyInfo.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.Views.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csproj.CopyComplete
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.dll
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Navigation.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\User\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductCategory\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\GetDetail.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\sadsad.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\MainMenu\Default.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ProductCategory\Default.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Detail.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Category.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Success.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Payment.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Test.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Search.g.cshtml.cs
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\Common1.dll
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\bin\Debug\netcoreapp2.1\Common1.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\HeaderCart\Default.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.deps.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.runtimeconfig.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.Views.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\webvitinh.Views.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.TagHelpers.input.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.TagHelpers.output.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorCoreGenerate.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductCategory\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\GetDetail.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Test.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\sadsad.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Navigation.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\User\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Payment.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Success.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Category.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Detail.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Product\Search.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\HeaderCart\Default.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\MainMenu\Default.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ProductCategory\Default.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.Views.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\webvitinh.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Content\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Content\Create.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Content\Edit.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Content\Index.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Content\Detail.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Content\Tag.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\GetDataPayPal.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Views\Cart\PayPalCheckOut.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\webvitinh\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

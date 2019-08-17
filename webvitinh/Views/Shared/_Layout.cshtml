@@ -1,0 +1,141 @@
+﻿<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <Environment include="Development">
+        <title>Free Home Shoppe Website Template | Home :: w3layouts</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link href="~/Client/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+        <script src="~/Client/js/jquery-1.11.3.min.js"></script>
+        <script src="~/Client/js/jquery-ui.js"></script>
+        <script src="~/Client/js/bootstrap.min.js"></script>
+        <link href="~/Client/css/jquery-ui.css" rel="stylesheet" />
+        <link href="~/Client/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/Client/css/font-awesome.min.css" rel="stylesheet" />
+        <link href="~/Client/css/bootstrap-theme.css" rel="stylesheet" />
+        <link href="~/Client/css/style.css" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="~/Client/js/move-top.js"></script>
+        <script type="text/javascript" src="~/Client/js/easing.js"></script>
+        <script type="text/javascript" src="~/Client/js/startstop-slider.js"></script>
+        <script>
+            function myFunction() {
+                var x = document.URL;
+                document.getElementById("jinu").src = 'https://www.facebook.com/plugins/share_button.php?href=' + x + '&layout=button_count&size=large&mobile_iframe=true&width=83&height=28&appId';
+            }
+        </script>
+    </Environment>
+    <meta property="og:url" content="http://www.localhost:44371" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Your Website Title" />
+    <meta property="og:description" content="Your description" />
+    <meta property="og:image" content="https://www.your-domain.com/path/image.jpg" />
+</head>
+<body onload="myFunction()">
+    <div id="fb-root"></div>
+    <div class="wrap">
+        <div class="header">
+            <div class="headertop_desc">
+                @await Component.InvokeAsync("TopMenu")
+            </div>
+            <div class="header_top">
+                <div class="logo">
+                    <a href="/" rel="nofollow"><img src="~/Assets/Client/images/logo.png" alt="" /></a>
+                </div>
+                @await Component.InvokeAsync("HeaderCart")
+                <script type="text/javascript">
+                    function DropDown(el) {
+                        this.dd = el;
+                        this.initEvents();
+                    }
+                    DropDown.prototype = {
+                        initEvents: function () {
+                            var obj = this;
+
+                            obj.dd.on('click', function (event) {
+                                $(this).toggleClass('active');
+                                event.stopPropagation();
+                            });
+                        }
+                    }
+
+                    $(function () {
+
+                        var dd = new DropDown($('#dd'));
+
+                        $(document).click(function () {
+                            // all dropdowns
+                            $('.wrapper-dropdown-2').removeClass('active');
+                        });
+
+                    });
+
+                </script>
+                <div class="clear"></div>
+            </div>
+            <div class="header_bottom">
+                @await Component.InvokeAsync("MainMenu")
+                <div class="search_box">
+                    <form action="/Search" method="get">
+                        <input type="text" id="txtKeyword" name="keyword" placeholder="Gõ từ khoá"><input type="submit" value="">
+                    </form>
+                </div>
+                <div class="clear"></div>
+            </div>
+            @RenderSection("slide", required: false)
+        </div>
+        <div class="main">
+            @RenderBody()
+        </div>
+        <!-- Load Facebook SDK for JavaScript -->
+        <div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function () {
+                FB.init({
+                    appId: '2404206682991772',
+                    xfbml: true,
+                    version: 'v4.0'
+                });
+                FB.AppEvents.logPageView();
+            };
+
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+        <!-- Your customer chat code -->
+        <div class="fb-customerchat"
+             attribution=setup_tool
+             page_id="103493434329859">
+        </div>
+    </div>
+    <div class="footer">
+        @await Component.InvokeAsync("Footer")
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $().UItoTop({ easingType: 'easeOutQuart' });
+
+        });
+    </script>
+    <a href="#" id="toTop"><span id="toTopHover"> </span></a>
+    <script src="~/Client/js/Controller/BaseController.js"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=2404206682991772&autoLogAppEvents=1"></script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d5123a6d899bdd6"></script>
+    @RenderSection("jsFooter", required: false)
+    <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({ c: 'f3d04d0d-ea32-4599-861e-6e542a27b4ea', f: true }); done = true; } }; })();</script>
+</body>
+</html>
+
+

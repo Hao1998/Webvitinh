@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\bin\Release\Common1.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\bin\Release\Common1.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj\Release\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj\Release\Common1.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj\Release\Common1.pdb

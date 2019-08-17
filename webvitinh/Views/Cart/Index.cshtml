@@ -1,0 +1,54 @@
+﻿@model List<webvitinh.Models.CartItem>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section jsFooter{
+    <script src="~/Client/js/Controller/cartController.js"></script>
+}
+<div class="content">
+    <div class="section group">
+        @if (Model.Count() > 0)
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td>Product's code</td>
+                        <td>Product's name</td>
+                        <td>Product's image</td>
+                        <td>Product's quantity</td>
+                        <td>Product's price</td>
+                        <td>Total money</td>
+                        <td>Total money</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Product.Id</td>
+                            <td>@item.Product.Name</td>
+                            <td><img src="/imgaes_vitinh_2/@item.Product.Image" width="100" /></td>
+                            <td><input type="text" class="txtQuantity" data-id="@item.Product.Id" value="@item.Quantity" /></td>
+                            <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0")</td>
+                            <td>@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0"))</td>
+                            <td><a href="#" data-id="@item.Product.Id" class="btn-delete">Delete</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <button id="btnContinue" class="btn">Continue shopping</button>
+            <button id="btnUpdate" class="btn">Refresh your cart</button>
+            <button id="btnDeleteAll" class="btn">Delete your cart</button>
+            <button id="btnPayment" class="btn">Check out</button>
+            <button class="btn">
+                <a href="/thanh-toan-paypal">Paypal</a>
+            </button>
+        }
+        else
+        {
+            <spand class="alert alert-danger">There are no products !!! please go back and buy some ^__^. !!</spand>
+        }
+    </div>
+</div>
+

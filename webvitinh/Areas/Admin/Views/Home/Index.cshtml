@@ -1,0 +1,164 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    Trang chủ
+}
+
+<Environment include="Development">
+    <script>
+        $(document).ready(function () {
+            $("#jqGrid").jqGrid({
+                url: "GetOrder",
+                // we set the changes to be made at client side using predefined word clientArray
+                datatype: "json",
+                mtype: "GET",
+                colModel: [
+                    { key: true, label: 'id', name: 'id' },
+                    { label: 'CreateDate', name: 'createDate', editable: true},
+                    { label: 'ShipEmail', name: 'shipEmail', editable: true },
+                    { label: 'ShipName', name: 'shipName', editable: true },
+                    { label: 'ShipMobile', name: 'shipMobile', editable: true },
+                    { label: 'ShipAddress', name: 'shipAddress', editable: true },
+                    {
+                        name: "status", width: 70, align: "center", editable: true,
+                        formatter: "checkbox", formatoptions: { disabled: true },
+                        edittype: "checkbox", editoptions: { value: "1:0", defaultValue: "1" },
+                        stype: "select", searchoptions: {
+                            sopt: ["eq", "ne"],
+                            value: "1;0"
+                        }
+                    },
+                ],
+                loadonce: true,
+                sortname: 'status',
+                viewrecords: true,
+                subGrid: true,
+                subGridRowExpanded: function (subgrid_id, row_id) {
+                // we pass two parameters
+                // subgrid_id is a id of the div tag created within a table
+                // the row_id is the id of the row
+                // If we want to pass additional parameters to the url we can use
+                // the method getRowData(row_id) - which returns associative array in type name-value
+                // here we can easy construct the following
+                var subgrid_table_id;
+                subgrid_table_id = subgrid_id + "_t";
+                jQuery("#" + subgrid_id).html("<table id='" + subgrid_table_id + "' class='scroll'></table>");
+                    jQuery("#" + subgrid_table_id).jqGrid({
+                    url: "OrdersDetailsSubgridData?id=" + row_id,
+                    datatype: "json",
+                    colNames: ['productId', 'orderId', 'quantity', 'price'],
+                    colModel: [
+                        { name: "productId", index: "productId", width: 80, key: true },
+                        { name: "orderId", index: "orderId", width: 130 },
+                        { name: "quantity", index: "quantity", width: 80, align: "right"},
+                        { name: "price", index: "price", width: 80, align: "right"},                        
+                    ],
+                    height: '100%',
+                    rowNum: 20,
+                    footerrow: true,
+                    gridComplete: function () {
+                        var $grid = $("#" + subgrid_table_id);
+                        var colSum = $grid.jqGrid('getCol', 'price', false, 'sum');
+                        var colSum_2 = $grid.jqGrid('getCol', 'quantity', false, 'sum');
+                        var colSum_3 = $grid.jqGrid('getCol', 'productId', false, 'count');
+                        $grid.jqGrid('footerData', 'set', { 'price': colSum });
+                        $grid.jqGrid('footerData', 'set', { 'quantity': colSum_2 });
+                        $grid.jqGrid('footerData', 'set', { 'productId': colSum_3 });
+                     },   
+                    //grouping: false,
+                    //groupingView: {
+                    //    groupSummary: [true],
+                    //    groupColumnShow: [true],
+                    //    groupText: ['<b>{0}</b>'],
+                    //    groupCollapse: false,
+                    //    groupOrder: ['asc']
+                    //    },
+                    sortorder: "asc"
+                    });
+            },           
+                width: 1000,
+                height: 600,
+                rowNum: 30,
+                rowList: [10, 15, 20, 30, 50],
+                pager: "#jqGridPager"
+            });
+            $('#jqGrid').navGrid('#jqGridPager',
+                // the buttons to appear on the toolbar of the grid
+                { edit: true, add: false, del: true, search: true, refresh: false, view: false, position: "left", cloneToTop: false },
+                // options for the Edit Dialog
+                {
+                    editCaption: "The Edit Dialog",
+                    url: 'EditOrderJson',
+                    afterSubmit: function () {
+                        $(this).jqGrid("setGridParam", { datatype: 'json' });
+                        return [true];
+                    },
+                    beforeSubmit: function (postdata, form, oper) {
+                        if (confirm('Are you sure you want to update this row?')) {
+                            return [true, ''];
+                        } else {
+                            return [false, 'You can not submit!'];
+                        }
+                    },
+                    closeAfterEdit: true,
+                    errorTextFormat: function (data) {
+                        return 'Error: ' + data.responseText
+                    }
+                },
+                // options for the Add Dialog
+                {
+                    url: "AddOrderJson",
+                    afterSubmit: function () {
+                        $(this).jqGrid("setGridParam", {
+                            datatype: 'json'
+                        });
+                        return [true];
+                    },
+                    closeAfterAdd: true,
+                },
+                // options for the Delete Dailog
+                {
+                    url: "DeleteOrderJson",
+                    beforeSubmit: function (postdata, form, oper) {
+                        if (confirm('Are you wanna delete?')) {
+
+                            return [true, ''];
+                        } else {
+                            return [false, 'You can not delete!'];
+                        }
+                    },
+                    afterSubmit: function () {
+                        $(this).jqGrid("setGridParam", {
+                            datatype: 'json'
+                        });
+                        return [true];
+                    },
+                    errorTextFormat: function (data) {
+                        return 'Error: ' + data.responseText
+                    }
+                });
+        });
+    </script>
+</Environment>
+
+
+@section jsFooter{
+    <script src="~/admin/Admin/Scripts/jqGrid/grid.locale-en.js"></script>
+    <script src="~/admin/Admin/Scripts/jqGrid/jquery.jqGrid.js"></script>
+}
+
+<table id="jqGrid" align="center"></table>
+<div id="jqGridPager"></div>
+<!--<input id="btn" type="button" value="Load data" />-->
+
+
+
+
+
+
+
+

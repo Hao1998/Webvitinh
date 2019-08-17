@@ -1,0 +1,42 @@
+﻿@model List<Model.Menus>
+@using System.Security.Claims
+@using Microsoft.AspNetCore.Http;
+
+
+<div class="call">
+    <p><span>Need help?</span> call us <span class="number">1-22-3456789</span></span></p>
+</div>
+<div class="account_desc">
+    @{
+        /*var session = (UserLogin)Session[webvitinh.Common.CommonConstant.USER_SESSION]*/
+        var session_2 = User.Identity.Name;
+        var session = ViewBag.Login;
+    }
+    @if (session == null && session_2 == null)
+    {
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li><a href="@item.Link" target="@item.Target">@item.Text</a></li>
+            }
+        </ul>
+    }
+    else
+    {
+        if (session != null & session_2 == null)
+        {
+            <ul>
+                <li>Hello: @session</li>
+                <li>@Html.ActionLink("Exit", "Logout", "User")</li>
+            </ul>
+        }
+        else
+        {
+            <ul>
+                <li>Hello: @session_2</li>
+                <li>@Html.ActionLink("Exit", "LogoutFace", "User")</li>
+            </ul>
+        }
+    }
+</div>
+<div class="clear"><span>@Context.Session.GetString("username")</span></div>

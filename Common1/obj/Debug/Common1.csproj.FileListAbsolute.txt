@@ -1,0 +1,6 @@
+D:\.NET ILETS HAO\DoAndotNetCore\Common1\bin\Debug\Common1.dll
+D:\.NET ILETS HAO\DoAndotNetCore\Common1\bin\Debug\Common1.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\Common1\obj\Debug\Common1.csprojAssemblyReference.cache
+D:\.NET ILETS HAO\DoAndotNetCore\Common1\obj\Debug\Common1.csproj.CoreCompileInputs.cache
+D:\.NET ILETS HAO\DoAndotNetCore\Common1\obj\Debug\Common1.dll
+D:\.NET ILETS HAO\DoAndotNetCore\Common1\obj\Debug\Common1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Release\netcoreapp2.1\Model.deps.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Release\netcoreapp2.1\Model.runtimeconfig.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Release\netcoreapp2.1\Model.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Release\netcoreapp2.1\Model.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Release\netcoreapp2.1\Model.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Release\netcoreapp2.1\Common1.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Release\netcoreapp2.1\Common1.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Release\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Release\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Release\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Release\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Release\netcoreapp2.1\Model.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Release\netcoreapp2.1\Model.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Release\netcoreapp2.1\Model.pdb

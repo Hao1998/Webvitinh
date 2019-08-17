@@ -1,0 +1,37 @@
+D:\project\ASP\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+D:\project\ASP\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.dll
+D:\project\ASP\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+D:\project\ASP\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+D:\project\ASP\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+D:\project\ASP\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+D:\project\ASP\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.pdb
+D:\project\ASP\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.dll
+D:\project\ASP\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+D:\.NET ILETS HAO\DoAndotNetCore\Model\bin\Debug\netcoreapp2.1\Model.dll
+D:\.NET ILETS HAO\DoAndotNetCore\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+D:\.NET ILETS HAO\DoAndotNetCore\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+D:\.NET ILETS HAO\DoAndotNetCore\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+D:\.NET ILETS HAO\DoAndotNetCore\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.json
+D:\.NET ILETS HAO\DoAndotNetCore\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.dev.json
+D:\.NET ILETS HAO\DoAndotNetCore\Model\bin\Debug\netcoreapp2.1\Model.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\Model\obj\Debug\netcoreapp2.1\Model.dll
+D:\.NET ILETS HAO\DoAndotNetCore\Model\obj\Debug\netcoreapp2.1\Model.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+D:\.NET ILETS HAO\DoAndotNetCore\Model\bin\Debug\netcoreapp2.1\Common1.dll
+D:\.NET ILETS HAO\DoAndotNetCore\Model\bin\Debug\netcoreapp2.1\Common1.pdb
+D:\.NET ILETS HAO\DoAndotNetCore\Model\obj\Debug\netcoreapp2.1\Model.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.pdb
