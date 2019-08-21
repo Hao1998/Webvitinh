@@ -11,6 +11,7 @@ namespace webvitinh.Controllers
 {
     //[Route("api/[controller]")]
     //[ApiController]
+    [Route("[controller]")]
     public class ProductController : Controller
     {
 
