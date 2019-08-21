@@ -14,7 +14,7 @@ using ApiAiSDK;
 namespace webvitinh.Controllers
 {
 
-
+    [Route("[controller]")]
     public class HomeController : Controller
     {
 

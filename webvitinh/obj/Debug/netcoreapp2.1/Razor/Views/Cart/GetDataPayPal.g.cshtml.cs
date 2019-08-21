@@ -68,7 +68,7 @@ using webvitinh.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(123, 108, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a3f49d5a241b473b807ff6a9d2af6a82", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7dcb470e5d05488ca8022ef20cf1b75d", async() => {
                 BeginContext(129, 95, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>GetDataPaypal</title>\r\n");
                 EndContext();
@@ -88,12 +88,12 @@ using webvitinh.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(233, 487, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c68f8470a2524edd8fcea4f09c7ae729", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d89abebd688d4b1daba9f378ff3a036c", async() => {
                 BeginContext(239, 78, true);
                 WriteLiteral("\r\n    <div>\r\n        Checkout Paypal Success !^^\r\n    </div>\r\n    <br />\r\n    ");
                 EndContext();
                 BeginContext(317, 394, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "046ab25282b24ba4bca9cb4cfcfae18e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13c8b8dc9cb646debd44409eda814cd0", async() => {
                     BeginContext(392, 104, true);
                     WriteLiteral("\r\n        <input type=\"hidden\" name=\"cmd\" value=\"_notify-synch\">\r\n        <input type=\"hidden\" name=\"tx\"");
                     EndContext();
