@@ -15764,11 +15764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\DoAndotNetCore-master\\DoAndotNetCore-master\\webvitinh\\webvitinh.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Git\\webvitinh\\webvitinh\\webvitinh.csproj",
       "projectName": "webvitinh",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\DoAndotNetCore-master\\DoAndotNetCore-master\\webvitinh\\webvitinh.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Git\\webvitinh\\webvitinh\\webvitinh.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\DoAndotNetCore-master\\DoAndotNetCore-master\\webvitinh\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Git\\webvitinh\\webvitinh\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15789,11 +15789,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Downloads\\DoAndotNetCore-master\\DoAndotNetCore-master\\Common1\\Common.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Downloads\\DoAndotNetCore-master\\DoAndotNetCore-master\\Common1\\Common.csproj"
+            "C:\\Users\\Admin\\Desktop\\Git\\webvitinh\\Common1\\Common.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\Git\\webvitinh\\Common1\\Common.csproj"
             },
-            "C:\\Users\\Admin\\Downloads\\DoAndotNetCore-master\\DoAndotNetCore-master\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Downloads\\DoAndotNetCore-master\\DoAndotNetCore-master\\Model\\Model.csproj"
+            "C:\\Users\\Admin\\Desktop\\Git\\webvitinh\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\Git\\webvitinh\\Model\\Model.csproj"
             }
           }
         }

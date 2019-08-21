@@ -50,7 +50,7 @@ namespace webvitinh
 
             services.AddDbContext<OnlineShop1Context>(options =>
                options.UseSqlServer(
-                   Configuration.GetConnectionString("Server=tcp:webvitinh-db-test.database.windows.net,1433;Initial Catalog=db-test-webvitinh2;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")));
+                   Configuration.GetConnectionString("Server=tcp:webvitinh.database.windows.net,1433;Initial Catalog=OnlineShop;Persist Security Info=False;User ID=hao;Password=Ronaldo142;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")));
 
             services.AddIdentity<IdentityUser, IdentityRole>()
              .AddEntityFrameworkStores<OnlineShop1Context>()

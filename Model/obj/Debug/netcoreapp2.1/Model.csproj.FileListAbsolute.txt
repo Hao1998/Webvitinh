@@ -35,3 +35,17 @@ C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\D
 C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.csproj.CopyComplete
 C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.dll
 C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Model\obj\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Admin\Desktop\Git\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\Admin\Desktop\Git\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.json
+C:\Users\Admin\Desktop\Git\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Git\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Admin\Desktop\Git\webvitinh\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Admin\Desktop\Git\webvitinh\Model\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\Admin\Desktop\Git\webvitinh\Model\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\Admin\Desktop\Git\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Git\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Git\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Git\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\Git\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\Admin\Desktop\Git\webvitinh\Model\obj\Debug\netcoreapp2.1\Model.pdb

@@ -10,3 +10,9 @@ C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj
 C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj\Debug\Common1.dll
 C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj\Debug\Common1.pdb
 C:\Users\Admin\Downloads\DoAndotNetCore-master\DoAndotNetCore-master\Common1\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Git\webvitinh\Common1\bin\Debug\Common1.dll
+C:\Users\Admin\Desktop\Git\webvitinh\Common1\bin\Debug\Common1.pdb
+C:\Users\Admin\Desktop\Git\webvitinh\Common1\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Git\webvitinh\Common1\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git\webvitinh\Common1\obj\Debug\Common1.dll
+C:\Users\Admin\Desktop\Git\webvitinh\Common1\obj\Debug\Common1.pdb
