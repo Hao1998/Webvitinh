@@ -31,7 +31,7 @@ namespace webvitinh.Controllers
 
 
         // GET: Product
-        [Route("/")]
+        [Route("[action]")]
         [HttpGet("san-pham")]
         public IActionResult Index(int page = 1, int pageSize = 8)
         {
