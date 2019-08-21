@@ -19,7 +19,7 @@ namespace webvitinh.Controllers
         //{
         //    this.authenticationSchemeProvider = authenticationSchemeProvider;
         //}
-        
+
         //public ProductController(IOptions<MySeting> settings)
         //{
         //    if (settings != null && settings.Value != null)
@@ -30,6 +30,7 @@ namespace webvitinh.Controllers
 
 
         // GET: Product
+        [Route("/")]
         [HttpGet("san-pham")]
         public IActionResult Index(int page = 1, int pageSize = 8)
         {
