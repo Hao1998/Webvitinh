@@ -114,10 +114,10 @@ namespace webvitinh
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
             }
+            app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseAuthentication();
             app.UseSession();         
-            app.UseHttpsRedirection();
             app.UseDefaultFiles();
             app.UseCookiePolicy();
 

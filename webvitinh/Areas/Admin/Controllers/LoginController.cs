@@ -28,8 +28,8 @@ namespace webvitinh.Areas.Admin.Controllers
             return View();
         }
 
-        [HttpPost]
         [Route("[action]")]
+        [HttpPost]
         public IActionResult Login(LoginModel model)
         {
             if(ModelState.IsValid)
