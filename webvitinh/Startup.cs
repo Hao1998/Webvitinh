@@ -130,9 +130,9 @@ namespace webvitinh
             app.UseMvc(routes =>
             {
                
-                routes.MapRoute(
-                   name: "Area",
-                   template: "{area=Admin}/{controller=Login}/{action=Index}/{id?}");
+                //routes.MapRoute(
+                //   name: "Area",
+                //   template: "{area=Admin}/{controller=Login}/{action=Index}/{id?}");
                
                 routes.MapRoute(
                    name: "ProductDetail",
