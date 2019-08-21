@@ -73,7 +73,7 @@ using webvitinh.Models;
                 WriteLiteral("\n    <script src=\"https://maps.googleapis.com/maps/api/js?key=AIzaSyAqctkwkgNdKkD4ZBZVd3PCf0F5sxGn6_o\" type=\"text/javascript\"></script>\n    ");
                 EndContext();
                 BeginContext(419, 67, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6460b8d080b84a969c7c8e6969ca144c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "01e797224c204a86a953400351698a44", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -153,7 +153,7 @@ using webvitinh.Models;
                     ");
             EndContext();
             BeginContext(2553, 3024, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "db728860a2f14b2c8e5079fb80b35df9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dda2b3f470be4f9184ef243ee8e808ac", async() => {
                 BeginContext(2787, 2783, true);
                 WriteLiteral(@"
                         <div id=""mc_embed_signup_scroll"">

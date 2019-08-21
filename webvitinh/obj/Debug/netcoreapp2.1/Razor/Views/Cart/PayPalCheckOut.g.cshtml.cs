@@ -62,7 +62,7 @@ using webvitinh.Models;
             WriteLiteral("\r\n<div class=\"content\">\r\n        ");
             EndContext();
             BeginContext(166, 1069, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0051c3050b444ffa9328389d7b12de1a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "37cb73efbe8c4661ae9f894585fc9c03", async() => {
                 BeginContext(227, 301, true);
                 WriteLiteral(@"
             <input type=""hidden"" name=""cmd"" value=""_cart"" />
