@@ -14,6 +14,7 @@ using ApiAiSDK;
 namespace webvitinh.Controllers
 {
 
+    [Route("")]
     public class HomeController : Controller
     {
 
@@ -22,10 +23,7 @@ namespace webvitinh.Controllers
         private ApiAi apiAi;
         private string postUrl = "https://11bb5ed1.ngrok.io";
 
-
-        [Route("")]
-        [Route("Home")]
-        [Route("Home/Index")]
+        [Route("Index")]
         public IActionResult Index()
         {
             ViewBag.Slides = new SlideDao().ListAll();
