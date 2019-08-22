@@ -190,13 +190,13 @@ namespace webvitinh
                   name: "Search",
                   template: "{controller=Product}/{action=Search}/{id?}");
 
-                //routes.MapRoute(
-                //  name: "Product Index",
-                //  template: "{controller=Product}/{action=Index}/{id?}");
+                routes.MapRoute(
+                  name: "Product Index",
+                  template: "{controller=Product}/{action=Index}/{id?}");
 
-                //routes.MapRoute(
-                //  name: "default",
-                //  template: "{controller=Home}/{action=Index}/{id?}");
+                routes.MapRoute(
+                  name: "default",
+                  template: "{controller=Home}/{action=Index}/{id?}");
             });
 
             //CreateRoles(serviceProvider).Wait();
