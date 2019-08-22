@@ -46,7 +46,7 @@ namespace webvitinh.Areas.Admin.Controllers
     [Route("Admin/[controller]")]
     //[Route("[controller]")]
     //[ApiController]
-    public class HomeController : BaseController
+    public class HomeController : Controller
     {
         OnlineShop1Context db = null;
         public HomeController()
