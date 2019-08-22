@@ -23,6 +23,7 @@ namespace webvitinh.Areas.Admin.Controllers
         public string SessionInfo_Name { get; private set; }
 
         [Route("[action]")]
+        [HttpGet]
         public IActionResult Index()
         {
             return View();

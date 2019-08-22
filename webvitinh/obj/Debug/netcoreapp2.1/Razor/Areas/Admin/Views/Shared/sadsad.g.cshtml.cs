@@ -54,7 +54,7 @@ using webvitinh.Areas.Admin.Models;
             WriteLiteral("<!DOCTYPE html>\n\n<html lang=\"en\">\n");
             EndContext();
             BeginContext(34, 1185, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc595de8d5204d9ba61cd38fff8288b4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aa23cf8335b7425f98e82986d335d22a", async() => {
                 BeginContext(40, 1172, true);
                 WriteLiteral(@"
     <!-- The jQuery library is a prerequisite for all jqSuite products -->
@@ -91,7 +91,7 @@ using webvitinh.Areas.Admin.Models;
             WriteLiteral("\n");
             EndContext();
             BeginContext(1220, 2902, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9e74d6cdcaca445b9829c35a6f50ab37", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5063fbd9b5284f75ae439eb072c18fb1", async() => {
                 BeginContext(1226, 2889, true);
                 WriteLiteral(@"
     <div style=""margin-left:20px"">

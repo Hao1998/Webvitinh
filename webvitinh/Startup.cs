@@ -85,7 +85,7 @@ namespace webvitinh
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddAuthentication(option => 
+            services.AddAuthentication(option =>
             {
                 option.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
                 option.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
@@ -117,7 +117,7 @@ namespace webvitinh
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseAuthentication();
-            app.UseSession();         
+            app.UseSession();
             app.UseDefaultFiles();
             app.UseCookiePolicy();
 
@@ -129,11 +129,11 @@ namespace webvitinh
 
             app.UseMvc(routes =>
             {
-               
-                //routes.MapRoute(
-                //   name: "Area",
-                //   template: "{area=Admin}/{controller=Login}/{action=Index}/{id?}");
-               
+
+                routes.MapRoute(
+                   name: "area",
+                   template: "{area=admin}/{controller=login}/{action=index}/{id?}");
+
                 routes.MapRoute(
                    name: "ProductDetail",
                    template: "{controller=Product}/{action=chi-tiet}/{id?}");
@@ -153,7 +153,7 @@ namespace webvitinh
                 routes.MapRoute(
                   name: "Add Cart",
                   template: "{controller=Cart}/{action=them-gio-hang}/{id?}");
-                
+
                 routes.MapRoute(
                   name: "Payment",
                   template: "{controller=Cart}/{action=thanh-toan}/{id?}");
