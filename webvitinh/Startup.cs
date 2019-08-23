@@ -22,9 +22,19 @@ namespace webvitinh
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IHostingEnvironment env)
         {
-            Configuration = configuration;
+            var builder = new ConfigurationBuilder()
+
+                 .SetBasePath(env.ContentRootPath)
+
+                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+
+                 .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
+
+                 .AddEnvironmentVariables();
+
+            Configuration = builder.Build();
         }
 
         public IConfiguration Configuration { get; }
@@ -49,8 +59,7 @@ namespace webvitinh
             services.AddSession();
 
             services.AddDbContext<OnlineShop1Context>(options =>
-               options.UseSqlServer(
-                   Configuration.GetConnectionString("Server=tcp:webvitinh.database.windows.net,1433;Initial Catalog=OnlineShop;Persist Security Info=False;User ID=hao;Password=Ronaldo142;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")));
+               options.UseSqlServer(Configuration.GetConnectionString("Development")));
 
             services.AddIdentity<IdentityUser, IdentityRole>()
              .AddEntityFrameworkStores<OnlineShop1Context>()

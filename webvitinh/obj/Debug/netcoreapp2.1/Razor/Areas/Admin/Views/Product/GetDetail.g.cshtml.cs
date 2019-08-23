@@ -57,7 +57,7 @@ using webvitinh.Areas.Admin.Models;
             WriteLiteral("\n<p>\n    ");
             EndContext();
             BeginContext(43, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6e901a46b7b4ce9b6c9dc475e19c9a4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce6fddff62e645fa8841c678fe3c9ab0", async() => {
                 BeginContext(66, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -527,7 +527,7 @@ using webvitinh.Areas.Admin.Models;
             WriteLiteral("\n            </td>\n            <td>\n                ");
             EndContext();
             BeginContext(4553, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "702c2a9642174de58d4889efb828bec6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ffe89e173c6f4324af3ac46aed607ff2", async() => {
                 BeginContext(4598, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -562,7 +562,7 @@ using webvitinh.Areas.Admin.Models;
             WriteLiteral(" |\n                ");
             EndContext();
             BeginContext(4625, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d978b3460ba94c46b6f3666975b48405", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dfdf76b7bce342ed873e0c825ab64b3f", async() => {
                 BeginContext(4673, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -597,7 +597,7 @@ using webvitinh.Areas.Admin.Models;
             WriteLiteral(" |\n                ");
             EndContext();
             BeginContext(4703, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b410fa253cb46139722d3e063cde4dd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f779a83b7c944478aac9a2e306abfc0c", async() => {
                 BeginContext(4750, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
