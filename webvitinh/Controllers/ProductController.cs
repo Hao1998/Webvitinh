@@ -11,8 +11,6 @@ namespace webvitinh.Controllers
 {
     //[Route("api/[controller]")]
     //[ApiController]
-    [Area("")]
-    [Route("/[controller]")]
     public class ProductController : Controller
     {
 
@@ -32,7 +30,6 @@ namespace webvitinh.Controllers
 
 
         // GET: Product
-        [Route("[action]")]
         [HttpGet("san-pham")]
         public IActionResult Index(int page = 1, int pageSize = 8)
         {
